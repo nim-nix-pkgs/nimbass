@@ -11,6 +11,7 @@
   inputs.src-nimbass-master.ref   = "refs/heads/master";
   inputs.src-nimbass-master.owner = "genotrance";
   inputs.src-nimbass-master.repo  = "nimbass";
+  inputs.src-nimbass-master.dir   = "";
   inputs.src-nimbass-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
